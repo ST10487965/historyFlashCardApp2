@@ -38,7 +38,7 @@
     <TextView
         android:id="@+id/feedbackTextView"
         android:layout_width="match_parent"
-        android:layout_height="130dp"
+        android:layout_height="204dp"
         android:text="Feedback appears here:"
         android:textSize="20sp"
         android:textStyle="bold" />
@@ -46,7 +46,7 @@
     <Button
         android:id="@+id/nextButton"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="107dp"
         android:backgroundTint="#573503"
         android:text="Next" />
 </LinearLayout>
